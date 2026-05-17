@@ -1,4 +1,4 @@
-# 🏙️ EstateIQ – Bangalore House Price Prediction System
+# 🏡 EstateIQ – Bangalore House Price Prediction System
 
 A Flask-based machine learning web application that predicts house prices in Bangalore using property-related features such as location, total square feet, BHK, and bathrooms.  
 The project demonstrates a complete end-to-end ML workflow including data preprocessing, feature engineering, regression model evaluation, and deployment through an interactive web interface.

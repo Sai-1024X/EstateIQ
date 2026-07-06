@@ -19,6 +19,14 @@ The project demonstrates a complete end-to-end ML workflow including data prepro
 
 ---
 
+# 📊 Dataset
+
+This project uses the **Bengaluru House Price Dataset** for model training and evaluation.
+
+- **Source:** [Bengaluru House Price Dataset (Kaggle)](https://www.kaggle.com/code/viveksingh0510/house-price-prediction-bangalore)
+
+---
+
 # 🏗 Workflow & Prediction Pipeline
 
 ```bash
@@ -163,8 +171,20 @@ http://127.0.0.1:5000/
 
 ---
 
+# 👥 Contributors
+
+This project was developed collaboratively by:
+
+| Contributor | Primary Contributions |
+|-------------|-----------------------|
+| **Sai Ravi Chandran** | Designed and developed the frontend, implemented the Flask backend, integrated the trained machine learning model, handled application logic, and built the end-to-end web application. |
+| **Sirisha V Ramana** | Performed data preprocessing, exploratory data analysis (EDA), feature engineering, trained and evaluated multiple machine learning models, and selected the final prediction model. |
+| **Sneha Saphala R** | Assisted with data preparation, model development, testing, validation, and overall project implementation. |
+
+---
+
 # 🏁 Project Note
 
-> This project was developed as part of an academic machine learning project to demonstrate practical understanding of data preprocessing, regression modeling, feature engineering, and Flask-based ML deployment.
+> **EstateIQ** was developed as a **mid-year academic project** to demonstrate the practical application of machine learning and web development. The project showcases data preprocessing, feature engineering, regression modeling, model evaluation, and deployment through a Flask-based web application.
 
 ---

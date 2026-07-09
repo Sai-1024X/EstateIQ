@@ -120,14 +120,14 @@ Although Linear Regression and Ridge Regression achieved the same R² score, **R
 
 # ⚙️ Development Workflow
 
-## Model Development
+## 📌 Model Development
 
 - Data cleaning and preprocessing
 - Feature engineering & outlier removal
 - Regression model training and evaluation
 - Final Ridge Regression model selection
 
-## Deployment & Integration
+## 📌 Deployment & Integration
 
 - Model serialization using Pickle (`.pkl`)
 - Flask backend integration

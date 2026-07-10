@@ -179,7 +179,7 @@ House_Price_Predictor/
 ## 1) Clone the Repository
 
 ```bash
-git clone https://github.com/Sai-1024X/EstateIQ.git
+git clone https://github.com/Sai-10z/EstateIQ.git
 ```
 
 Move into the project directory:

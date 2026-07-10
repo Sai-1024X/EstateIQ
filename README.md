@@ -64,9 +64,9 @@ The raw housing dataset underwent several preprocessing steps before model train
 
 - Missing value handling
 - Location normalization
-- Outlier removal
 - Feature engineering
-- One-hot encoding of categorical features
+- Outlier removal
+- One-hot encoding
 - Train-test split
 
 ---
@@ -114,7 +114,7 @@ The raw housing dataset underwent several preprocessing steps before model train
 
 ### Final Model
 
-Although Linear Regression and Ridge Regression achieved the same R² score, **Ridge Regression** was selected as the final model due to its L2 regularization, which improves generalization and reduces the impact of multicollinearity.
+Although Linear Regression and Ridge Regression achieved the same R² score, Ridge Regression was selected because L2 regularization helps reduce overfitting and improves model robustness when dealing with multicollinearity.
 
 ---
 
@@ -297,5 +297,12 @@ This project was developed collaboratively by:
 > **EstateIQ** demonstrates how a machine learning model can be transformed into a production-style web application by combining data preprocessing, feature engineering, regression modeling, and Flask-based deployment.
 
 The project highlights the complete workflow from preparing housing data and training predictive models to delivering real-time house price predictions through an interactive web interface.
+
+---
+
+# ⚠️ Disclaimer
+
+This project is intended for educational and demonstration purposes only. The predicted property prices are generated using a machine learning model trained on historical Bangalore housing data and should not be considered
+professional real estate valuations or financial advice.
 
 ---

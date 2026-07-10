@@ -271,7 +271,7 @@ The EstateIQ web application will launch in your browser, allowing users to ente
 
 ---
 
-# ⚠️ Current Limitations
+# 📢 Current Limitations
 
 - Limited to Bangalore housing data
 - Predictions depend on dataset quality
